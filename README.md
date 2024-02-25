@@ -1,5 +1,5 @@
 <!-- Repo has been edited to be static, see comments for dynamic calls. -->
-hello! I'm Fakehamster
+hi ! i'm FAKEHAMSTER
 
 <h1>
  An enthusiastic node runner is dedicated to operating nodes for blockchain projects, committed to staying informed and up-to-date with the latest developments in the industry, and passionate about contributing to the advancement of blockchain technology through reliable and efficient node operation.
