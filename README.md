@@ -1,8 +1,9 @@
 <!-- Repo has been edited to be static, see comments for dynamic calls. -->
-hi ! i'm FAKEHAMSTER
+BLOCKCHAIN ENTHUSIATS
 
 <h1>
- An enthusiastic node runner is dedicated to operating nodes for blockchain projects, committed to staying informed and up-to-date with the latest developments in the industry, and passionate about contributing to the advancement of blockchain technology through reliable and efficient node operation.
+ hi ! i'm FAKEHAMSTER
+An enthusiastic node runner is dedicated to operating nodes for blockchain projects, committed to staying informed and up-to-date with the latest developments in the industry, and passionate about contributing to the advancement of blockchain technology through reliable and efficient node operation..
 </h1>
 
 <!-- Nothing weird to see here -->
