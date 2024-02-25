@@ -6,13 +6,6 @@ WELCOME TO THE WORLD OF BLOCKCHAIN
 An enthusiastic node runner is dedicated to operating nodes for blockchain projects, committed to staying informed and up-to-date with the latest developments in the industry, and passionate about contributing to the advancement of blockchain technology through reliable and efficient node operation..
 </h1>
  
-<p align="center">
-  <!-- He came up with the idea of HOW to show React components as an img on a README.md and the now playing component! -->
-  <i>inspired by <a href="https://github.com/natemoo-re">natemoo-re</a></i>
-</p>
-
-<p></p>
-
 <h1>
   i was a frontend intern at chess.com ♟️
 </h1>
