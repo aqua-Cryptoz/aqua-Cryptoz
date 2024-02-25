@@ -7,7 +7,7 @@ An enthusiastic node runner is dedicated to operating nodes for blockchain proje
 </h1>
 
 <h1>
-  i'm a vue.js fanboy, but i do some other stuff too :hammer:
+  SUPPORT NETWORK
 </h1>
 
 <p align="center">
