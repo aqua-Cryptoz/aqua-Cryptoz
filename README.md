@@ -5,10 +5,6 @@ WELCOME TO THE WORLD OF BLOCKCHAIN
  hi ! i'm FAKEHAMSTER
 An enthusiastic node runner is dedicated to operating nodes for blockchain projects, committed to staying informed and up-to-date with the latest developments in the industry, and passionate about contributing to the advancement of blockchain technology through reliable and efficient node operation..
 </h1>
- 
-<h1>
-  i was a frontend intern at chess.com ♟️
-</h1>
 
 <p align="center">
   <a href="https://www.chess.com/member/andyruwruw">
