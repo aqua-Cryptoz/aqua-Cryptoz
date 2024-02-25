@@ -5,12 +5,6 @@ WELCOME TO THE WORLD OF BLOCKCHAIN
  hi ! i'm FAKEHAMSTER
 An enthusiastic node runner is dedicated to operating nodes for blockchain projects, committed to staying informed and up-to-date with the latest developments in the industry, and passionate about contributing to the advancement of blockchain technology through reliable and efficient node operation..
 </h1>
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/top-played.svg">
-  <!-- This is how you'd make the call dynamically <img src="https://readme.andyruwruw.com/api/top-played"> -->
-</p>
  
 <p align="center">
   <!-- He came up with the idea of HOW to show React components as an img on a README.md and the now playing component! -->
