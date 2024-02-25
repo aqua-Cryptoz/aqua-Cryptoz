@@ -1,5 +1,5 @@
 <!-- Repo has been edited to be static, see comments for dynamic calls. -->
-BLOCKCHAIN ENTHUSIATS
+WELCOME TO THE WORLD OF BLOCKCHAIN
 
 <h1>
  hi ! i'm FAKEHAMSTER
