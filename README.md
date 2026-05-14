@@ -1,29 +1,10 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&width=380&lines=welcome+to+my+world" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/aqua-Cryptoz/aqua-Cryptoz/main/banner.jpg" alt="FAKEHAMSTER" />
 </h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aqua-Cryptoz/aqua-Cryptoz/main/profile-3d-contrib/profile-year-rank.svg?sanitize=true" height="130" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&width=380&lines=passionate+about+web3+%26+crypto" alt="Typing SVG" />
 </p>
-
----
-
-```ascii
- ╔══════════════════════════════════════════════════════╗
- ║  ██████╗ ███████╗███╗   ██╗ ██████╗ ██╗   ██╗      ║
- ║  ██╔══██╗██╔════╝████╗  ██║██╔════╝ ██║   ██║      ║
- ║  ██████╔╝███████╗██╔██╗ ██║██║  ███╗██║   ██║      ║
- ║  ██╔═══╝ ╚════██║██║╚██╗██║██║   ██║██║   ██║      ║
- ║  ██║     ███████║██║ ╚████║╚██████╔╝╚██████╔╝      ║
- ║  ╚═╝     ╚══════╝╚═╝  ╚═══╝ ╚═════╝  ╚═════╝       ║
- ║         ██████╗ ███████╗██████╗ ███╗   ███╗        ║
- ║         ██╔══██╗██╔════╝██╔══██╗████╗ ████║        ║
- ║         ██████╔╝█████╗  ██████╔╝██╔████╔██║        ║
- ║         ██╔══██╗██╔══╝  ██╔══██╗██║╚██╔╝██║        ║
- ║         ██║  ██║███████╗██████╔╝██║ ╚═╝ ██║        ║
- ║         ╚═╝  ╚═╝╚══════╝╚═════╝ ╚═╝     ╚═╝        ║
- ╚══════════════════════════════════════════════════════╝
-```
 
 ---
 
