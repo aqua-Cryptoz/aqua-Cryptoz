@@ -1,16 +1,30 @@
-<!-- Repo has been edited to be static, see comments for dynamic calls. -->
-WELCOME TO THE WORLD OF BLOCKCHAIN
+# yo, i'm faKehamster
 
-<h1>
- hi ! i'm FAKEHAMSTER
-An enthusiastic node runner is dedicated to operating nodes for blockchain projects, committed to staying informed and up-to-date with the latest developments in the industry, and passionate about contributing to the advancement of blockchain technology through reliable and efficient node operation..
-</h1>
+**Full-stack dev.**区块链 ecosystem, DeFi, autonomous agents.
 
-<h1>
-  SUPPORT NETWORK
-</h1>
+```
+JavaScript  ████████████████████  8
+TypeScript  ██████████████████    7
+Vue         ██                  2
+Go          █                   1
+```
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/skills.svg">
-  <!-- This is how you'd make the call dynamically <img src="https://readme.andyruwruw.com/api/skills"> -->
-</p>
+---
+
+## repos
+
+| project | lang | note |
+|---------|------|------|
+| [AMAYRA](https://github.com/aqua-Cryptoz/AMAYRA) | HTML | Real-time pattern detection. Autonomous execution. |
+| [fakehamsi](https://github.com/aqua-Cryptoz/fakehamsi) | Go | Canopy Network protocol impl |
+| [FAKEHAMSTERR](https://github.com/aqua-Cryptoz/FAKEHAMSTERR) | TS | — |
+| [dym-explorer](https://github.com/aqua-Cryptoz/dym-explorer) | Vue | Light explorer for Cosmos chains |
+| [verified-agent-identity](https://github.com/aqua-Cryptoz/verified-agent-identity) | JS | — |
+
+_more on [github.com/aqua-Cryptoz](https://github.com/aqua-Cryptoz)_
+
+---
+
+## links
+
+[Twitter](https://twitter.com/fakehamster_) · [GitHub](https://github.com/aqua-Cryptoz)
